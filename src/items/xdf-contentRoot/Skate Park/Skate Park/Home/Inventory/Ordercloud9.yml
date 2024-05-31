@@ -1,0 +1,87 @@
+﻿---
+ID: "26e8d050-8fb3-462e-9bdf-8b9fda8c4240"
+Parent: "a7857adc-af24-442c-bd3a-f8ffc97ed384"
+Template: "1aaa77bf-78f8-40ae-9930-2a3c6a6ae502"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory/Ordercloud9
+SharedFields:
+- ID: "12e9c088-b054-435e-9a9c-c946c11acee3"
+  Hint: SKU
+  Value: "{26E8D050-8FB3-462E-9BDF-8B9FDA8C4240}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{75AD02AF-ED26-4027-BD8F-28EA1BC57F49}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E473F89F-1EC6-43B7-8348-F8E51AFD3A8C}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240530T204316Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D50BD221-6A5B-4ADB-BB2F-AA7D951E807F}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f43d959-8f96-4731-8070-74d8a217b37e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T204423Z
+    - ID: "ee036325-daf1-4b04-8300-c7b1bd9f575a"
+      Hint: Title
+      Value: Ordercloud9
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1bb996ec-2ffb-46ee-b030-e35129c78603"
+      Hint: Content
+      Value: <p>any change</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240530T211050Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8E30CE45-DCAE-446A-BCAD-BD740C0F6623}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@gmail.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@gmail.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41aee6d2-546e-4279-90e7-ae3b5bba70cf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@gmail.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20240530T211050Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T211050Z
+    - ID: "ee036325-daf1-4b04-8300-c7b1bd9f575a"
+      Hint: Title
+      Value: Ordercloud9

@@ -1,0 +1,37 @@
+﻿---
+ID: "7ee6dc4e-6d2e-44e0-9756-494a0e107ce4"
+Parent: "a7857adc-af24-442c-bd3a-f8ffc97ed384"
+Template: "1aaa77bf-78f8-40ae-9930-2a3c6a6ae502"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory/SteveyT 1000X
+SharedFields:
+- ID: "12e9c088-b054-435e-9a9c-c946c11acee3"
+  Hint: SKU
+  Value: "{7EE6DC4E-6D2E-44E0-9756-494A0E107CE4}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{86501792-7641-4B00-B161-3C80F5EE5380}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240530T190621Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: SteveyT 1000X
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b88291f-464f-4acb-b856-fa816e9d5f34"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T190621Z
+    - ID: "ee036325-daf1-4b04-8300-c7b1bd9f575a"
+      Hint: Title
+      Value: SteveyT 1000X

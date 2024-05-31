@@ -1,0 +1,49 @@
+﻿---
+ID: "4c19869e-7f50-4eff-969d-5c0da9a0aecc"
+Parent: "1aaa77bf-78f8-40ae-9930-2a3c6a6ae502"
+Template: "1aaa77bf-78f8-40ae-9930-2a3c6a6ae502"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Skateboard/__Standard Values
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{75AD02AF-ED26-4027-BD8F-28EA1BC57F49}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "1f149d59-7ee7-477f-917f-b885ccad3e82"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240530T182619Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "800928d9-32db-4ae1-92dc-551629a1a734"
+      Hint: Image
+      Value: |
+        <image mediaid="{65AE88A6-BE9B-4022-9BFF-49E66E3DC6D3}" />
+    - ID: "87d366f1-f117-4943-8409-5820235ae567"
+      Hint: ReleaseDate
+      Value: 20240530T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81342f2f-4a22-4445-9a0a-54035c452550"
+    - ID: "9ee327ac-d95d-4fe1-a81e-57c42468ada3"
+      Hint: Material
+      Value: Fiberglass
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T204231Z

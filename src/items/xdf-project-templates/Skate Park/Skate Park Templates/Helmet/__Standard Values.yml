@@ -1,0 +1,23 @@
+﻿---
+ID: "ad1a869e-3c1d-48e7-9614-ba341dea8cd0"
+Parent: "3af91a5e-fd8d-4fbf-9098-a92f2593565c"
+Template: "3af91a5e-fd8d-4fbf-9098-a92f2593565c"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Helmet/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240530T184044Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4974182-23b8-4503-bd56-10c194c3c11d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T184044Z
